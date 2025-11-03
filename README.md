@@ -22,7 +22,7 @@ While Emergent handled the heavy lifting — from design to backend functionalit
 ⚡ **Note:** This project was built entirely on the **free tier of Emergent**, which does not support external deployment.  
 🔗 The **link provided below** will take you to a **fully functional preview** of the web app. 
 
-**SINCE THIS IS JUST A PREVIEW THE EMERGENT SERVERS NEED TO BE ACTIVATED MANUALLY EVERY TIME THEY GO TO SLEEP SO KINDLY JUST CLICK ON "WAKE UP SERVERS" WHEN THE SERVERS ARE INACTIVE AND WAIT FOR THE APPLLICATION TO BOOT UP AGAIN. THANK YOU.** 
+**SINCE THIS IS JUST A PREVIEW THE EMERGENT SERVERS NEED TO BE ACTIVATED MANUALLY EVERY TIME THEY GO TO SLEEP SO KINDLY JUST CLICK ON "WAKE UP SERVERS" WHEN THE SERVERS ARE INACTIVE AND WAIT FOR THE APPLICATION TO BOOT UP AGAIN. THANK YOU.** 
 
 [Preview Website](https://learnlink-62.preview.emergentagent.com/)
 
